@@ -1,2 +1,2 @@
 # spring-boot-crud
-CRUD operations
+CRUD operations using hibernate session
